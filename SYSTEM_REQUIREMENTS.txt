@@ -1,8 +1,5 @@
 
-
-SPRINT2:System Requirements Definition
---------------------------------------
-SPRINT2:System Requirements Definition
+SPRINT1:System Requirements Definition
 --------------------------------------
 1-Development Platform:
    a.Local Operating system:Windows 7+
